@@ -43,4 +43,4 @@ This project is a NestJS-based API that provides user authentication functionali
 ## Running the app
 
 
-## Test assignment is in test.ts file.
+##The Test assignment is in test.ts file.
